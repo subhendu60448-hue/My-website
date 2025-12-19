@@ -203,3 +203,9 @@ h2 {
 body {
     min-height: 300vh;
 }
+.section {
+    opacity: 1 !important;
+    transform: none !important;
+    position: relative;
+    z-index: 5;
+}
